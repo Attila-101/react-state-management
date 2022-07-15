@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# State Management in React
+
+I followed along [this tutorial](https://www.freecodecamp.org/news/state-management-with-react-hooks) for Vefskólinn
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
